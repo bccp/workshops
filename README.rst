@@ -1,4 +1,5 @@
-# Websites of BCCP workshops
+Website of BCCP Workshops
+=========================
 
 This is the hosting repository for BCCP workshops. The idea is borrowed from Scipy-Conferences. 
 
@@ -12,14 +13,17 @@ Here, each workshop is set up as a branch. To start a new workshop, branch off f
 
 4. Edit this file [subsites]_ to add an entry for the website. The format of a line is
 
-```
-Branch-name  |  URL on the bccp website | html | .
-```
+.. code ::
+
+ Branch-name  |  URL on the bccp website | html | .
+   
 
 For example,
-```
-2017-non-linear-universe | 2017-non-linear-universe | html | .
-```
+
+.. code ::
+
+ 2017-non-linear-universe | 2017-non-linear-universe | html | .
+
 
 
 The last two words must be `html` and `.` -- those will be useful for future updates.
