@@ -16,7 +16,18 @@ Here, each workshop is set up as a branch. To start a new workshop, branch off f
 Branch-name  |  URL on the bccp website | html | .
 ```
 
+For example,
+```
+2017-non-linear-universe | 2017-non-linear-universe | html | .
+```
+
+
 The last two words must be `html` and `.` -- those will be useful for future updates.
+After the file is edited and committed, you shall soon be able to find the website online.
+For our example, the url is `http://bccp.berkeley.edu/2017-non-linear-universe`.
+
+5. Remember to add a link to the website to the workshops page of the bccp website.
+ 
 
 .. [subsites] https://github.com/bccp/website/blob/master/subsites.txt
 
