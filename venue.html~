@@ -36,7 +36,7 @@
 				
 		<h1 id="logo-text"><a href="index.html" title=""><span>The Nonlinear Universe</span></a></h1>
 	  <h1 id="logo-text-low"><a href="index.html" title=""><a href="index.html"></a></h1>
-	  <h2 id="slogan">July 17-22, 2017, Smartno (San Martino), Slovenia</h2>
+	  <h2 id="slogan">July 16-22, 2017, Smartno (San Martino), Slovenia</h2>
 			
 		<div id="header-links">
 		<p>
@@ -51,12 +51,12 @@
 	<!-- navigation starts-->	
 	<div  id="nav">
 		<ul>
-			<li id="current"><a href="venue.html">Home</a></li>
+			<li><a href="index.html">Home</a></li>
 		<!--<li><a href="https://docs.google.com/spreadsheets/d/150CF8bnIC1451hDgYxqDx82WQ-8ozGpHmjsMsfY-xjI/edit?usp=sharing">Program</a></li> -->
             <li><a href="https://docs.google.com/forms/d/1imkJuNZzW6B-0nqWHqrWRGccQB_nWkkscTMk4cvqu-g/viewform">Registration</a></li>
             <li><a href=""> Participants</a></li>	 
             <li><a href="">Program<a/></li>	 
-            <li><a href="venue.html">Accommodation</a></li>
+            <li id="current"><a href="venue.html">Accommodation</a></li>
 
 		<!--	<li><a href="programme.html">program</a></li>
 			<li><a href="accommodation.html">Accommodation</a></li>
@@ -107,7 +107,7 @@ Registration and talks on the first two days will happen in LeConte 375, while o
 		  <p align="justify">
 The conference main venue is the <a href="http://en.sanmartin.si/"> Hotel San Martin</a>.
 
-The hotel is exclusively reserved for the conference, and it will accomodate a large number of the participants in twenty-six rooms. 
+The hotel is exclusively reserved for the conference, and it will accomodate a large number of the participants in twenty-six rooms. The conference room is also located in the hotel.
 </p>
 <p>
 The price for six nights, including breakfasts, 6 lunches, and 4 dinners is 650 euros for occupancy and 550 euros for double occupancy.
@@ -115,11 +115,45 @@ The price for six nights, including breakfasts, 6 lunches, and 4 dinners is 650 
 This price includes the social dinner, two excursions, and a wine tasting session. The hotel has one of the best cellars in the area, with thousands of different bottles.
 </p>
 <p>
-<b>Registration to the meeting is complete only after the hotel reservation will be made. </b> You can book your room contacting the hotel by email at  and mentioning that you are coming for the cosmology conference.
+<b>Registration to the meeting is considered completed only after the hotel reservation has been made. </b> You can book your room contacting the hotel by email at ,  and mentioning that you are coming for the cosmology conference.
      </p>
  <p>      
 Other accomodation is availabe at 
      </p>
+
+<div class="slideshow">
+ <img class="slides" src="images/terrace.jpg" alt="terrace"  width="506" height="338">
+ <img class="slides" src="images/night.jpg" alt="night"  width="506" height="338">
+ <img class="slides" src="images/wine.jpg" alt="wine"  width="506" height="338">
+ <img class="slides" src="images/smartno.jpg" alt="smartno"  width="506" height="338">
+ <img class="slides" src="images/smartno3.jpg" alt="smartno2"  width="506" height="338">
+ <img class="slides" src="images/smartno4.jpg" alt="smartno4"  width="506" height="338">
+
+  <a class="w3-btn-floating w3-display-left" onclick="plusDivs(-1)">&#10094;</a>
+  <a class="w3-btn-floating w3-display-right" onclick="plusDivs(1)">&#10095;</a>
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("slides");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+
+
 <!-- </ul> -->
 		    
 		
