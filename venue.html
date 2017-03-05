@@ -1,6 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <head>
 
 <meta name="Description" content="Information architecture, Web Design, Web Standards." />
@@ -11,6 +13,13 @@
 <meta name="Robots" content="index,follow" />
 
 <link rel="stylesheet" href="cosmostats.css" type="text/css" />
+
+<style>
+.slides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+</style>
+
 
 <title>BCCP The non-linear Universe</title>
 <style type="text/css">
@@ -125,7 +134,10 @@ Other accomodation has been reserved for the workshop at the <a href="http://en.
      </p>
 <p>
 Airports serving the area are located in Venice (Marco Polo), Treviso, Trieste and Ljubljana. Shuttle service from local airports to Smartno can be booked through <a href="https://www.goopti.com/en/">GOOPTI</a>, the cost is approximately 50 euros from Venice and 35 euros from Trieste for a roundtrip.
-<div class="slideshow">
+
+
+
+<div class="w3-content w3-display-container" style="max-width:510px">
  <img class="slides" src="images/terrace.jpg" alt="terrace"  width="506" height="338">
  <img class="slides" src="images/night.jpg" alt="night"  width="506" height="338">
  <img class="slides" src="images/wine.jpg" alt="wine"  width="506" height="338">
@@ -135,10 +147,16 @@ Airports serving the area are located in Venice (Marco Polo), Treviso, Trieste a
 <!-- <img class="slides" src="images/bovec.jpg" alt="smartno4"  width="506" height="338">-->
 <!-- <img class="slides" src="images/rilke1.JPG" alt="rilke1"  width="338" height="506"> --> 
 <!-- <img class="slides" src="images/rilke2.jpg" alt="rilke2"  width="506" height="338"> -->
-
-
-  <a class="w3-btn-floating w3-display-left" onclick="plusDivs(-1)">&#10094;</a>
-  <a class="w3-btn-floating w3-display-right" onclick="plusDivs(1)">&#10095;</a>
+  <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+    <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
+    <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(6)"></span>
+  </div>
 </div>
 
 <script>
@@ -149,18 +167,26 @@ function plusDivs(n) {
   showDivs(slideIndex += n);
 }
 
+function currentDiv(n) {
+  showDivs(slideIndex = n);
+}
+
 function showDivs(n) {
   var i;
   var x = document.getElementsByClassName("slides");
+  var dots = document.getElementsByClassName("demo");
   if (n > x.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = x.length}
   for (i = 0; i < x.length; i++) {
      x[i].style.display = "none";  
   }
+  for (i = 0; i < dots.length; i++) {
+     dots[i].className = dots[i].className.replace(" w3-white", "");
+  }
   x[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " w3-white";
 }
 </script>
-
 
 <!-- </ul> -->
 		    
