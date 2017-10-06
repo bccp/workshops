@@ -22,6 +22,7 @@ body {
 }
 
 /* links */
+/*
 a, a:visited {	
 	color: #5A93C9;
 	background: inherit;
@@ -36,8 +37,10 @@ a:hover {
 a.style1 {
 	color: #FF0000
 }
+*/
 
 /* headers */
+/*
 h1, h2, h3 {
 	font-family: 'Trebuchet MS', Tahoma, Sans-serif;
 	font-weight: Bold; 		
@@ -74,7 +77,7 @@ ul, ol {
 	margin: 5px 20px;
 	padding: 0 20px;
 }
-
+*/
 /* images */
 img {
 	background: #FAFAFA;
@@ -366,16 +369,26 @@ input.button {
 	padding: 0; margin: 10px 0 0 10px;
 	display: inline;
 }
-#main h1 {
-	margin-top: 10px;
-	font: normal 1.6em 'Trebuchet MS', Tahoma, Sans-serif;
-	color: #2B73D0; 
-	padding: 5px 0 5px 5px; 		
+#main p {
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
+
 }
-#main ul li {
-	list-style-image: url(images/bullet.gif);
+#main h1 {
+	margin-top: 1em;
+    font: normal 1.6em 'Trebuchet MS', Tahoma, Sans-serif;
+	color: #2B73D0; 
+/*    background : #c0c0c0;*/
+/*	padding: 5px 0 5px 5px; 		*/
+    border-bottom: 2px #8f8f8f solid;
 }
 
+#main ul li {
+	list-style-image: url(images/bullet.gif);
+    list-style-position: inside;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
 .post-footer {
 	background: url(images/post.jpg);
 	padding: 5px; margin: 20px 10px 0 10px;	
