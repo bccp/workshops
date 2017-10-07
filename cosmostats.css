@@ -436,10 +436,10 @@ input.button {
 #sidebar ul.sidemenu li a {
 	text-decoration: none;	
 	background-image: none;	
-	color: #666666;			
+	/*color: #666666;			*/
 }
 #sidebar ul.sidemenu li a:hover {	
-	color: #1773BC;	
+	/*color: #1773BC;	*/
 }
 
 /* footer */
