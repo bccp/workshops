@@ -17,5 +17,15 @@ This repo works together with the website repo.
 5. add the link to the branch on bccp.berkeley.edu/{branchname} to the workshops
    page website
 
+For editing, you want to start by cloning a branch directly. 
+
+Use (ssh)
+
+git clone -b [workshop-branch] git@github.com:bccp/workshops
+
+or  (https)
+
+git clone -b [workshop-branch] https://github.com/bccp/workshops
+
 
 
