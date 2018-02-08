@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="cosmostats.css" type="text/css" />
 
-<title>BCCP The non-linear Universe</title>
+<title>BCCP The non-linear Universe 2018</title>
 <style type="text/css">
 <!--
 .style1 {
@@ -36,7 +36,7 @@
 				
 		<h1 id="logo-text"><a href="index.html" title=""><span>The Nonlinear Universe</span></a></h1>
 	  <h1 id="logo-text-low"><a href="index.html" title=""><a href="index.html"></a></h1>
-	  <h2 id="slogan">July 16-22, 2017, Smartno, Slovenia</h2>
+	  <h2 id="slogan">July 15-21, 2018, Smartno, Slovenia</h2>
 			
 		<div id="header-links">
 		<p>
@@ -53,9 +53,9 @@
 		<ul>
 			<li id="current"><a href="index.html">Home</a></li>
 		<!--<li><a href="https://docs.google.com/spreadsheets/d/150CF8bnIC1451hDgYxqDx82WQ-8ozGpHmjsMsfY-xjI/edit?usp=sharing">Program</a></li> -->
-            <li><a href="https://docs.google.com/forms/d/1imkJuNZzW6B-0nqWHqrWRGccQB_nWkkscTMk4cvqu-g/viewform">Registration</a></li>
-            <li><a href="https://docs.google.com/spreadsheets/d/1HWqsFKo4lkmAD9mBf0gVLavQjC2HppEa98IKgJ-8Pcc/pubhtml?gid=1749166458&single=true"> Participants</a></li>	 
-            <li><a href="">Program<a/></li>	 
+            <li><a href="https://goo.gl/forms/dR3kiwf34rMR5T1b2">Registration</a></li>
+            <li><a href=""> Participants</a></li>	 
+            <li><a href="https://docs.google.com/spreadsheets/d/1RMnQ8BUbRj-K7GfcY0GFj3Z7q__xX6Cg58e9D_ar9gg/edit?usp=sharing">Program<a/></li>	 
             <li><a href="venue.html">Accommodation</a></li>
 
 		<!--	<li><a href="programme.html">program</a></li>
@@ -75,10 +75,13 @@
 			
 		  <h1>Organizing Committee</h1>	
 <ul class="sidemenu">
-<li>Emanuele Castorina</li>
+<li>Vanessa Boehm</li>
+<li>Marcel Schmittfull</li>
+<li>Colin Hill</li>
 <li>Uros Seljak</li>
-<li>Francisco Villaescusa-Navarro</li>
-<li>Zvonimir Vlah</li>
+<li>Martin White</li> 
+<li>Matias Zaldarriaga</li>
+
 	    </ul>	
 		        <p> </p>
         <h1>Secretary of the Conference</h1>
@@ -89,7 +92,7 @@
 	<h1>Sponsors</h1>
         <ul class="sidemenu">
 	  <li><a href="http://bccp.berkeley.edu">Berkeley Center for Cosmological Physics (BCCP)</a></li>
-	  <li><a href="https://www.simonsfoundation.org/flatiron-institute/center-for-computational-astrophysics/"> Center for Computational Astrophysics (CCA)</a></li>
+<!--	  <li><a href="https://www.simonsfoundation.org/flatiron-institute/center-for-computational-astrophysics/"> Center for Computational Astrophysics (CCA)</a></li>-->
 
         </ul>
         <!-- sidebar ends -->
@@ -98,39 +101,31 @@
 	  				
 		<div id="main">
 
-<!-- <h1>Venue</h1>
-		  <p align="justify">
-Registration and talks will take place in LeConte Hall on UC Berkeley Campus (click <a href="https://goo.gl/maps/ekoUQVgfhsv">here</a> for a map). 
-Registration and talks on the first two days will happen in LeConte 375, while on the last day they will be in LeConte 325. The reception and dinner on Wed 22 will take place on the roof (6th floor) of New Campbell hall, next door to LeConte.
-</p> -->
+
 	
 		  <h1>Overview</h1>
 		  <p align="justify">
-The evolution of the Universe on small scales is nonlinear, and this leads to new phenomena both in the dark matter sector and in the baryonic sector. These effects can be studied using numerical dark matter and gas simulations, which however have their own uncertainties. There are numerous open questions in this area: to what extent is our ability to extract cosmological information limited by these nonlinear effects? Can cosmological observations improve astrophysical modeling of nonlinear evolution? Can purely theoretical approaches add to our understanding of nonlinear universe? 
+The evolution of the Universe on small scales is non-linear. This can be seen as both a blessing and a curse. While non-linear scales contain precious cosmological and astrophysical information, their theoretical modeling is highly challenging and uncertain. In this workshop, organized by the Berkeley Center for Cosmological Physics (BCCP),  we want address the question of how to best extract the additional information in non-linear phenomena from observations. Special to this year's meeting we plan to dedicate two days to the discussion of  the reconstruction of linear initial conditions from non-linear observations, using Bayesian sampling and non-sampling methods, backward-reconstructions, numerical simulations, and machine learning techniques. 
 </p>
  <p>      
-The aim of this workshop, co-organized by the Berkeley Center for Cosmological Physics (BCCP) and the Center for Computational Astrophysics (CCA) at the Flatiron Institute, is to gather experts at the intersection of these areas. The format of the workshop is talks in the morning, followed by lunch at the premise
- and discussions/excursions in the afternoon, facilitating as much as possible interactions and informal discussions among participants. 
+For this purpose, we want to bring together experts for reconstruction, non-linear modeling and simulations and facilitate as much as possible interactions and discussions among the participants. The format we choose for this is talks and extended discussion sessions, complemented by excursions and wine tastings in the evenings. 
      </p>
  <p>      
 
 Where: <b> Hotel San Martin, Smartno, Slovenia </b> <br /> 
-When:  <b>July 16-22, 2017</b> 
-    <p>
-Topics will include numerical simulations of dark matter, galaxies, and gas, approximate numerical methods for specialized applications, 
-theoretical modeling, and connections to observations.
+When:  <b>July 15-21, 2018</b> 
+    </p>
 
-     </p>
 <p>
 <b> Registration is strictly limited to 50 participants </b>.
-If you are planning to attend, please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSd54OreBhKKFSmctlFgjMkjpes8iWtJklh8r1MqgIWVC2BNBw/viewform">here</a>.
-Registration fees will be included in the hotel reservation.
-<br><b>Due to the limited number of participants we can accommodate, registration to the meeting will be confirmed once a hotel reservation will be made through the  main venue</b>. Please see the Accommodation page for more information.
-     </p>
+</p>
+<p>
+If you are planning to attend, please register  <a href="https://goo.gl/forms/dR3kiwf34rMR5T1b2"><b>here </b></a>.
+</p>
 
 <h1>Venue</h1>
 		  <p align="justify">
-The conference will take place in the medieval village of <a href="https://goo.gl/maps/WHFhuTapLg72"> Smartno </a> in Slovenia, on the green hills of the region of Brda(Collio), right at the border with Italy. This is one the most important and renowned wine growing area of the region.<br> The venue is located in the Hotel San Martin, where a large fraction of the participants will also find accommodation.<br> Additional events, such as wine tasting, an alpine excursion to Bovec, on the Julian Alps, and a hike along the Rilke path on the coast of Trieste will also be organized. <b> Check the Accommodation page for more info.</b> 
+The conference will take place in the medieval village of <a href="https://goo.gl/maps/WHFhuTapLg72"> Smartno </a> in Slovenia, on the green hills of the region of Brda(Collio), right at the border with Italy. This is one of the most important and renowned wine growing areas of the region.<br> The venue is located in the Hotel San Martin, where a large fraction of the participants will also find accommodation.<br> The workshop will be complemented by a non-scientific program with excursions and wine-tastings. Further information will be made available soon on the accomodation page.
 </p>
 <!-- 		  <a href="participants.php">&gt;&gt; List of participants</a></p> -->
 <!-- 		  <h1>Confirmed speakers</h1> -->
