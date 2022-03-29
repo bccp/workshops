@@ -308,8 +308,6 @@ input.button {
 /* header-photo (convert with convert skijump2_high.jpg -resize 790x200 test.jpg)  */
 #header-photo {
 	clear: both;
-	height: 402px;
-	width: 790px;
 	margin: 0 auto;
 	background: #FFF url(images/header.jpg) no-repeat center center;
         /*background: #FFF url(images/neutrino_bc_1.jpg) no-repeat center center;
