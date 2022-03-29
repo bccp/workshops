@@ -311,7 +311,7 @@ input.button {
 	height: 402px;
 	width: 790px;
 	margin: 0 auto;
-	background: #FFF url(images/header.jpg) no-repeat center center;
+	background: #FFF url(images/wine.jpg) no-repeat center center;
         /*background: #FFF url(images/neutrino_bc_1.jpg) no-repeat center center;
 	/*background: #FFF url(potential_images/skiing-wide.jpg) no-repeat center center; */
 	/*background: #FFF url(images/sewell_olympic_resized.jpg) no-repeat center center;*/
