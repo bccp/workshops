@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<meta name="Description" content="Information architecture, Web Design, Web Standards." />
+<meta name="Keywords" content="your, keywords" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="Distribution" content="Global" />
+<meta name="Author" content="Erwin Aligam - ealigam@gmail.com" />
+<meta name="Robots" content="index,follow" />
+
+<link rel="stylesheet" href="cosmostats.css" type="text/css" />
+
+<title>BCCP The non-linear Universe</title>
+<style type="text/css">
+<!--
+.style1 {
+	color: #FF0000
+}
+.style2 {color: #FF0000; font-weight: bold; }
+-->
+</style>
+</head>
+
+<body>
+
+
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<div id="top-bg"></div>
+				
+	<!--header -->
+	<div id="header">			
+				
+		<h1 id="logo-text"><a href="index.html" title=""><span>The Nonlinear Universe</span></a></h1>
+	  <h1 id="logo-text-low"><a href="index.html" title=""><a href="index.html"></a></h1>
+	  <h2 id="slogan">July 16-22, 2017, Smartno, Slovenia</h2>
+			
+		<div id="header-links">
+		<p>
+		  <!-- could use http://manytools.org/http-html-text/string-manipulation/ to get ascii emails -->
+			<a href="mailto:mbarclay@berkeley.edu"><img src="images/email-icon.jpg" alt="email" width="20" height="15" class="nopadding" /></a></p>		
+	  </div>			
+	<!--header ends-->					
+	</div>
+		
+	<div id="header-photo"></div>		
+		
+	<!-- navigation starts-->	
+	<div  id="nav">
+		<ul>
+			<li><a href="index.html">Home</a></li>
+		<!--<li><a href="https://docs.google.com/spreadsheets/d/150CF8bnIC1451hDgYxqDx82WQ-8ozGpHmjsMsfY-xjI/edit?usp=sharing">Program</a></li> -->
+            <li><a href="https://docs.google.com/forms/d/1imkJuNZzW6B-0nqWHqrWRGccQB_nWkkscTMk4cvqu-g/viewform">Registration</a></li>
+            <li><a href="https://docs.google.com/spreadsheets/d/1HWqsFKo4lkmAD9mBf0gVLavQjC2HppEa98IKgJ-8Pcc/pubhtml?gid=1749166458&single=true"> Participants</a></li>	 
+            <li><a href="">Program<a/></li>	 
+            <li id="current"><a href="venue.html">Accommodation</a></li>
+
+		<!--	<li><a href="programme.html">program</a></li>
+			<li><a href="accommodation.html">Accommodation</a></li>
+			<li><a href="travel.html">travel</a></li>
+			<li><a href="registration.html">registration</a></li>
+			<li><a href="links.html">links</a></li>	-->
+            <!-- <li><a href="great08.html">GREAT08</a></li> -->
+		</ul>
+	<!-- navigation ends-->	
+	</div>					
+			
+	<!-- content-wrap starts -->
+	<div id="content-wrap">
+				
+	  <div id="sidebar">
+			
+		  <h1>Organizing Committee</h1>	
+<ul class="sidemenu">
+<li>Emanuele Castorina</li>
+<li>Uros Seljak</li>
+<li>Francisco Villaescusa-Navarro</li>
+<li>Zvonimir Vlah</li>
+	    </ul>	
+		        <p> </p>
+        <h1>Secretary of the Conference</h1>
+        <ul class="sidemenu">
+        <li><a href="mailto:mbarclay@berkeley.edu">Melissa Barclay</a> </li>
+	</ul>
+        <p> </p>
+	<h1>Sponsors</h1>
+        <ul class="sidemenu">
+	  <li><a href="http://bccp.berkeley.edu">Berkeley Center for Cosmological Physics (BCCP)</a></li>
+	  <li><a href="https://www.simonsfoundation.org/flatiron-institute/center-for-computational-astrophysics/"> Center for Computational Astrophysics (CCA)</a></li>
+        </ul>
+        <!-- sidebar ends -->
+        <!-- sidebar ends -->
+	  </div>
+	  				
+		<div id="main">
+
+<!-- <h1>Venue</h1>
+		  <p align="justify">
+Registration and talks will take place in LeConte Hall on UC Berkeley Campus (click <a href="https://goo.gl/maps/ekoUQVgfhsv">here</a> for a map). 
+Registration and talks on the first two days will happen in LeConte 375, while on the last day they will be in LeConte 325. The reception and dinner on Wed 22 will take place on the roof (6th floor) of New Campbell hall, next door to LeConte.
+</p> -->
+	
+<h1>Accomodation</h1>
+		  <p align="justify">
+The conference main venue is the boutique <a href="http://en.sanmartin.si/"> Hotel San Martin</a>, on the edge of medieval village Smartno.
+
+The hotel is exclusively reserved for the conference, and it will accomodate a large number of the participants. The conference room is also located in the hotel.
+</p>
+<p>
+The price for six nights,<b> all included </b> (except the dinner in Sistiana/Portopiccolo), is 680 euros for double occupancy rooms, and a limited number of single rooms are available at additional cost.
+</p>
+<p>
+This price also includes several activities. One excursion will bring the participants to <a href="https://www.bovec.si/en/"> Bovec,</a> on the Julian Alps, a center for rafting, canoying, hiking, biking and much more.<br>
+The second event will start with a hike along the <a href="https://en.wikipedia.org/wiki/Rilke_trail"> Rilke path</a>, a trail on the gulf of Trieste with amazing views of the coast and of the Duino Castle. The Rilke has historical interests as well, since it still preserves several observational points built during World War II. The walk will end in Sistiana, on the beach, still in time for a last swim in the sea. Dinner will follow in Sistiana or in Portopiccolo.
+<br> Wine and olive oil tasting sessions will also be organized.
+</p>
+<p>
+<b>Registration to the meeting is considered completed only after the hotel reservation has been made. </b> You can book your room contacting the hotel by email at <b>info@sanmartin.si</b> or by phone at +386 51 335 660, and mentioning that you are coming for the Cosmology conference in July. 
+     </p>
+ <p>      
+Other accomodation has been reserved for the workshop at the <a href="http://en.marica.si/"> Hotel Marica,</a> and at <a href="http://www.booking.com/hotel/si/kmetija-stekar.html?aid=356980;label=gog235jc-hotel-it-si-kmetijaNstekar-unspec-us_ca-com-L%3Ait-O%3AwindowsS81-B%3Achrome-N%3AXX-S%3Abo-U%3Ac;sid=09b0297e084f619a1a638ad106946633;dist=0&sb_price_type=total&type=total&">Stekar</a> (prices may vary). Please always contact Hotel San Martin first in order to make a reservation.
+     </p>
+<p>
+Airports serving the area are located in Venice (Marco Polo), Treviso, Trieste and Ljubljana. Shuttle service from local airports to Smartno can be booked through <a href="https://www.goopti.com/en/">GOOPTI</a>, the cost is approximately 50 euros from Venice and 35 euros from Trieste for a roundtrip.
+<div class="slideshow">
+ <img class="slides" src="images/terrace.jpg" alt="terrace"  width="506" height="338">
+ <img class="slides" src="images/night.jpg" alt="night"  width="506" height="338">
+ <img class="slides" src="images/wine.jpg" alt="wine"  width="506" height="338">
+ <img class="slides" src="images/smartno.jpg" alt="smartno"  width="506" height="338">
+ <img class="slides" src="images/smartno3.jpg" alt="smartno2"  width="506" height="338">
+ <img class="slides" src="images/smartno4.jpg" alt="smartno4"  width="506" height="338">
+<!-- <img class="slides" src="images/bovec.jpg" alt="smartno4"  width="506" height="338">-->
+<!-- <img class="slides" src="images/rilke1.JPG" alt="rilke1"  width="338" height="506"> --> 
+<!-- <img class="slides" src="images/rilke2.jpg" alt="rilke2"  width="506" height="338"> -->
+
+
+  <a class="w3-btn-floating w3-display-left" onclick="plusDivs(-1)">&#10094;</a>
+  <a class="w3-btn-floating w3-display-right" onclick="plusDivs(1)">&#10095;</a>
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("slides");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+
+
+<!-- </ul> -->
+		    
+		
+			<p>&nbsp;</p>
+		</div>
+		
+	<!-- content-wrap ends-->	
+	</div>
+		
+	<!-- footer starts -->		
+	<div id="footer-wrap">
+	  <div id="footer-columns">
+	
+	    <div class="col3"></div>
+
+		<div class="col3">
+			<h2>
+			  <!-- footer-columns ends -->
+		</h2>
+			</div>
+		</div>	
+	
+		<div id="footer-bottom">		
+			
+			<p><strong><a href="http://bccp.berkeley.edu">Berkeley Center for Cosmological Physics</a></strong><br>
+		  <strong> </strong></p>
+		  
+		</div>	
+
+<!-- footer ends-->
+</div>
+<!-- wrap ends here -->
+</div>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42281279-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+</body>
+</html>
